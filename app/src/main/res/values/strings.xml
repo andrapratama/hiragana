@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Hiragana</string>
     <string name="daftar_menu">Daftar Menu</string>
+    <string name="huruf_a">Huruf A Hiragana</string>
 </resources>
