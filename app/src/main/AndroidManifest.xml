@@ -10,7 +10,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Hiragana">
         <activity
-            android:name=".Menu1"
+            android:name=".HurufO"
+            android:exported="true" />
+        <activity
+            android:name=".HurufE"
+            android:exported="true" />
+        <activity
+            android:name=".HurufU"
+            android:exported="true" />
+        <activity
+            android:name=".HurufI"
+            android:exported="true" />
+        <activity
+            android:name=".HurufA"
             android:exported="true" />
         <activity
             android:name=".MainActivity"

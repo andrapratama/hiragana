@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".HurufE">
+
+    <TextView
+        android:layout_marginTop="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="Romaji"
+        />
+
+    <TextView
+        android:id="@+id/huruf_e"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="50sp"
+        android:text="E"
+        />
+
+    <Space
+        android:layout_width="20sp"
+        android:layout_height="50sp"/>
+
+    <TextView
+        android:layout_marginTop="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="Hiragana"
+        />
+    <ImageView
+        android:contentDescription="@string/huruf_e"
+        android:id="@+id/imageView1"
+        android:layout_width="120sp"
+        android:layout_height="120sp"
+        app:srcCompat="@drawable/e" />
+
+    <Space
+        android:layout_width="20sp"
+        android:layout_height="50sp"/>
+
+    <TextView
+        android:layout_marginTop="20sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="Cara Penulisan"
+        />
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/eg" />
+
+</LinearLayout>

@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout/activity_huruf_a.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_huruf_e.xml" value="0.20153985507246377" />
+        <entry key="app/src/main/res/layout/activity_huruf_i.xml" value="0.20153985507246377" />
+        <entry key="app/src/main/res/layout/activity_huruf_o.xml" value="0.20153985507246377" />
+        <entry key="app/src/main/res/layout/activity_huruf_u.xml" value="0.1" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.2807971014492754" />
         <entry key="app/src/main/res/layout/activity_menu1.xml" value="0.24094202898550723" />
       </map>
