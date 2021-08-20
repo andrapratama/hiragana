@@ -9,115 +9,67 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center_horizontal"
-        android:weightSum="5">
+        android:orientation="vertical"
+        android:gravity="center_horizontal">
 
         <TextView
             android:layout_marginTop="20sp"
-            android:id="@+id/huruf_a"
+            android:id="@+id/gojuuon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="50sp"
-            android:text="A"
-            android:layout_weight="1"
+            android:text="Gojuuon"
+            android:textAlignment="center"
             />
 
         <TextView
             android:layout_marginTop="20sp"
-            android:id="@+id/huruf_i"
+            android:id="@+id/dakuon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="50sp"
-            android:text="I"
-            android:layout_weight="1"
+            android:text="Dakuon"
+            android:textAlignment="center"
             />
 
         <TextView
             android:layout_marginTop="20sp"
-            android:id="@+id/huruf_u"
+            android:id="@+id/handakuon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="50sp"
-            android:text="U"
-            android:layout_weight="1"
+            android:text="Handakuon"
+            android:textAlignment="center"
             />
 
         <TextView
             android:layout_marginTop="20sp"
-            android:id="@+id/huruf_e"
+            android:id="@+id/youon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="50sp"
-            android:text="E"
-            android:layout_weight="1"
+            android:text="Youon"
+            android:textAlignment="center"
             />
 
         <TextView
             android:layout_marginTop="20sp"
-            android:id="@+id/huruf_o"
+            android:id="@+id/sokuon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="50sp"
-            android:text="O"
-            />
-
-    </LinearLayout>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:orientation="horizontal"
-        android:gravity="center_horizontal"
-        android:weightSum="5">
-
-        <TextView
-            android:layout_marginTop="20sp"
-            android:id="@+id/huruf_ka"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="50sp"
-            android:text="Ka"
-            android:layout_weight="1"
+            android:text="Sokuon"
+            android:textAlignment="center"
             />
 
         <TextView
             android:layout_marginTop="20sp"
-            android:id="@+id/huruf_Ki"
+            android:id="@+id/chouon"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textSize="50sp"
-            android:text="Ki"
-            android:layout_weight="1"
-            />
-
-        <TextView
-            android:layout_marginTop="20sp"
-            android:id="@+id/huruf_ku"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="50sp"
-            android:text="Ku"
-            android:layout_weight="1"
-            />
-
-        <TextView
-            android:layout_marginTop="20sp"
-            android:id="@+id/huruf_ke"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="50sp"
-            android:text="Ke"
-            android:layout_weight="1"
-            />
-
-        <TextView
-            android:layout_marginTop="20sp"
-            android:id="@+id/huruf_ko"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:textSize="50sp"
-            android:text="Ko"
+            android:text="Chouon"
+            android:textAlignment="center"
             />
 
     </LinearLayout>
